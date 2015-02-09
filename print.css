@@ -1,0 +1,6 @@
+body {margin: 0px;}
+#educationBox{ page-break-after:always;}
+.employment{page-break-inside: avoid;}
+a[href]:after {
+    content: none !important;
+}

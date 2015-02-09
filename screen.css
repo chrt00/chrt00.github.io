@@ -1,0 +1,7 @@
+body { padding-top: 50px; margin-top:10px;}
+a.anchor{display: block; position: relative; top: -60px; visibility: hidden;}
+.glyphicon-github{
+background-image:url("github.png");
+height: 14px;
+width: 14px;
+}
